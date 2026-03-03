@@ -1,0 +1,16 @@
+{
+    "treeCount": 3,
+    "humanCount": 1,
+    "treeHeights": [
+        4558.190940856934,
+        1451.875087738037,
+        1399.880615234375
+    ],
+    "humanHeights": [
+        757.186767578125
+    ],
+    "nearestTreeHeight": 1399.880615234375,
+    "tallestHumanHeght": 757.186767578125,
+    "nearestTreeBottomBoundingBoxLineYaxixNumber": 4019.49658203125,
+    "tallestHumanBottomBoundingBoxLineYaxixNumber": 4585.2099609375
+}
