@@ -16,7 +16,8 @@ app.add_middleware(
 )
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-MODEL_PATH = os.path.join(BASE_DIR, "model/model0223_v8n.pt")
+# MODEL_PATH = os.path.join(BASE_DIR, "model/model0223_v8n.pt")
+MODEL_PATH = os.path.join(BASE_DIR, "model/model0303.pt")
 
 model = YOLO(MODEL_PATH)
 
